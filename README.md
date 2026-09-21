@@ -6,7 +6,7 @@
 - **Monitor**: Ubuntu Server (192.168.254.130) — Suricata IDS
 
 ## Environment
-- VMware Workstation Pro 17
+- VMware Workstation Pro 26H2
 - Host-Only Network: 192.168.254.0/24
 
 ## Labs
