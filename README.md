@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Homelab-Network-Security
-=======
 # Homelab Network Security & Monitoring
 
 ## Architecture
@@ -21,5 +18,3 @@
 - Suricata 8.0.3 (IDS/IPS)
 - Nmap (reconnaissance)
 - tcpdump / Wireshark (packet analysis)
-
->>>>>>> c305522 (feat: Initial homelab setup + lab01 port scan detection)
