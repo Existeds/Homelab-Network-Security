@@ -36,6 +36,7 @@ sudo nmap -A 192.168.254.129
 ```
 
 ## Findings
+```bash 
 [Count]  [SID]             [Event Name]
 532      [1:9000002:1] 	   SCAN Multiple Port Detected
 87       [1:2024364:5]     ET SCAN Possible Nmap User-Agent Observed
@@ -43,6 +44,7 @@ sudo nmap -A 192.168.254.129
 30       [1:2200025:2]     SURICATA ICMPv4 unknown code
 10       [1:9000001:1]     NMAP Scan Detected
 3        [1:2260002:1]     SURICATA Applayer Detect protocol only one direction
+```
 
 ### Observations
 - SYN scan (-sS) menghasilkan paling banyak alert karena
