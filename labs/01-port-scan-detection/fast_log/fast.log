@@ -1,0 +1,692 @@
+09/21/2026-16:05:17.636902  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:05:17.636899  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:05:18.637621  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:05:18.637618  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:05:19.650318  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:05:19.650315  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:05:20.674386  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:05:20.674384  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:05:21.698337  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:05:21.698336  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:05:43.588509  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:4005
+09/21/2026-16:05:43.585368  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:445
+09/21/2026-16:05:43.585850  [**] [1:9000001:1] NMAP Scan Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:53
+09/21/2026-16:05:43.586990  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:2875
+09/21/2026-16:05:43.588457  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:903
+09/21/2026-16:05:43.589931  [**] [1:9000001:1] NMAP Scan Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:7911
+09/21/2026-16:05:43.586724  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:25
+09/21/2026-16:05:43.588940  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:9998
+09/21/2026-16:05:43.592714  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1433
+09/21/2026-16:05:43.593353  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:3851
+09/21/2026-16:05:43.590115  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1044
+09/21/2026-16:05:43.590114  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1044
+09/21/2026-16:05:43.591580  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1165
+09/21/2026-16:05:43.592935  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:5825
+09/21/2026-16:05:43.594457  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:10629
+09/21/2026-16:05:43.595813  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:10616
+09/21/2026-16:05:43.597327  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:32776
+09/21/2026-16:05:43.598781  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:389
+09/21/2026-16:05:43.590843  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1309
+09/21/2026-16:05:43.594722  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1556
+09/21/2026-16:05:43.599965  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:13783
+09/21/2026-16:05:43.594458  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:10629
+09/21/2026-16:05:43.599497  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:705
+09/21/2026-16:05:43.600328  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:5009
+09/21/2026-16:05:43.602402  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1121
+09/21/2026-16:05:43.600174  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:61900
+09/21/2026-16:05:43.601794  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:9102
+09/21/2026-16:05:43.603213  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:7025
+09/21/2026-16:05:43.604105  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:17
+09/21/2026-16:05:43.607251  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:2046
+09/21/2026-16:05:43.608110  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1002
+09/21/2026-16:05:43.603702  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:32770
+09/21/2026-16:05:43.609435  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:7019
+09/21/2026-16:05:43.612557  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:51493
+09/21/2026-16:05:43.604289  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:9111
+09/21/2026-16:05:43.613889  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:5298
+09/21/2026-16:05:43.608853  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:32782
+09/21/2026-16:05:43.609079  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:8089
+09/21/2026-16:05:43.618084  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:5550
+09/21/2026-16:05:43.609961  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:4002
+09/21/2026-16:05:43.613346  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:481
+09/21/2026-16:05:43.614190  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:7938
+09/21/2026-16:05:43.615178  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:5004
+09/21/2026-16:05:43.618083  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:3000
+09/21/2026-16:05:43.619908  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:902
+09/21/2026-16:05:43.619382  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1098
+09/21/2026-16:05:43.621717  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:11111
+09/21/2026-16:05:43.622129  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:3546
+09/21/2026-16:05:43.621274  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1110
+09/21/2026-16:05:43.618719  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:5054
+09/21/2026-16:05:43.619783  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:3300
+09/21/2026-16:05:43.618954  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:2869
+09/21/2026-16:05:43.625493  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:6566
+09/21/2026-16:05:43.619782  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:3300
+09/21/2026-16:05:43.620927  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:3737
+09/21/2026-16:05:43.621720  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:9101
+09/21/2026-16:05:43.622771  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:2035
+09/21/2026-16:05:43.623528  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1083
+09/21/2026-16:05:43.624668  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:84
+09/21/2026-16:05:43.625522  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:513
+09/21/2026-16:05:43.626300  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:90
+09/21/2026-16:05:43.627304  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:5225
+09/21/2026-16:05:43.628133  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:6699
+09/21/2026-16:05:43.628882  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1066
+09/21/2026-16:05:43.623226  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:8291
+09/21/2026-16:05:43.628472  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:2030
+09/21/2026-16:05:43.628473  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1300
+09/21/2026-16:05:43.628544  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:30951
+09/21/2026-16:05:43.629587  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1805
+09/21/2026-16:05:43.627451  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1259
+09/21/2026-16:05:43.629294  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:9050
+09/21/2026-16:05:43.631149  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1022
+09/21/2026-16:05:43.628882  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:636
+09/21/2026-16:05:43.633143  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1494
+09/21/2026-16:05:43.635184  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:49154
+09/21/2026-16:05:43.629749  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1055
+09/21/2026-16:05:43.630527  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:21571
+09/21/2026-16:05:43.631451  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:57294
+09/21/2026-16:05:43.633118  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1065
+09/21/2026-16:05:43.633513  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:27355
+09/21/2026-16:05:43.634310  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:16018
+09/21/2026-16:05:43.635264  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:8002
+09/21/2026-16:05:43.636096  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:3878
+09/21/2026-16:05:43.636948  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:6792
+09/21/2026-16:05:43.637704  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:32769
+09/21/2026-16:05:43.638698  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:10215
+09/21/2026-16:05:43.633512  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:212
+09/21/2026-16:05:43.637366  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:2000
+09/21/2026-16:05:43.637367  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1310
+09/21/2026-16:05:43.637688  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:4321
+09/21/2026-16:05:43.638700  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:20000
+09/21/2026-16:05:43.643046  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:19315
+09/21/2026-16:05:43.640685  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:4004
+09/21/2026-16:05:43.636887  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:3971
+09/21/2026-16:05:43.637149  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:20005
+09/21/2026-16:05:43.641196  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:6004
+09/21/2026-16:05:43.641763  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:9000
+09/21/2026-16:05:43.639491  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:843
+09/21/2026-16:05:43.645533  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:6666
+09/21/2026-16:05:43.640393  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:49160
+09/21/2026-16:05:43.641196  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:6004
+09/21/2026-16:05:43.642162  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:6779
+09/21/2026-16:05:43.642991  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:49153
+09/21/2026-16:05:43.643966  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:17877
+09/21/2026-16:05:43.644905  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:9003
+09/21/2026-16:05:43.645820  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:50001
+09/21/2026-16:05:43.646596  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:9968
+09/21/2026-16:05:43.647541  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:11967
+09/21/2026-16:05:43.648264  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:49400
+09/21/2026-16:05:43.643046  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:8100
+09/21/2026-16:05:43.649585  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1131
+09/21/2026-16:05:43.647783  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:648
+09/21/2026-16:05:43.650772  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:5862
+09/21/2026-16:05:43.653572  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:81
+09/21/2026-16:05:43.645821  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:50001
+09/21/2026-16:05:43.647070  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1073
+09/21/2026-16:05:43.650196  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:6002
+09/21/2026-16:05:43.652275  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:6565
+09/21/2026-16:05:43.653515  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:2525
+09/21/2026-16:05:43.654595  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1666
+09/21/2026-16:05:43.649134  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:7
+09/21/2026-16:05:43.649887  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:65389
+09/21/2026-16:05:43.650849  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:9200
+09/21/2026-16:05:43.651642  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1078
+09/21/2026-16:05:43.652478  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1034
+09/21/2026-16:05:43.653347  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:687
+09/21/2026-16:05:43.654327  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:7627
+09/21/2026-16:05:43.655068  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1443
+09/21/2026-16:05:43.656093  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1417
+09/21/2026-16:05:43.656910  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1580
+09/21/2026-16:05:43.652876  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:10003
+09/21/2026-16:05:43.654411  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1352
+09/21/2026-16:05:43.654594  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1045
+09/21/2026-16:05:43.657154  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:43471 -> 192.168.254.129:1801
+09/21/2026-16:06:04.676673  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:135
+09/21/2026-16:06:04.676878  [**] [1:9000001:1] NMAP Scan Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1723
+09/21/2026-16:06:04.677157  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:8400
+09/21/2026-16:06:04.678083  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:3918
+09/21/2026-16:06:04.678665  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1641
+09/21/2026-16:06:04.676742  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:113
+09/21/2026-16:06:04.677664  [**] [1:9000001:1] NMAP Scan Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:5190
+09/21/2026-16:06:04.675971  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:8888
+09/21/2026-16:06:04.676937  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:256
+09/21/2026-16:06:04.679455  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1061
+09/21/2026-16:06:04.681234  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:3809
+09/21/2026-16:06:04.682096  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1124
+09/21/2026-16:06:04.677087  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:3367
+09/21/2026-16:06:04.681443  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:163
+09/21/2026-16:06:04.683169  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1801
+09/21/2026-16:06:04.679675  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1119
+09/21/2026-16:06:04.681828  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:5911
+09/21/2026-16:06:04.684698  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1053
+09/21/2026-16:06:04.681174  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:49175
+09/21/2026-16:06:04.683167  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:20031
+09/21/2026-16:06:04.679524  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:2000
+09/21/2026-16:06:04.685686  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:2107
+09/21/2026-16:06:04.688285  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:5214
+09/21/2026-16:06:04.679974  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:79
+09/21/2026-16:06:04.680403  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:5101
+09/21/2026-16:06:04.680907  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1864
+09/21/2026-16:06:04.681496  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1021
+09/21/2026-16:06:04.681772  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1113
+09/21/2026-16:06:04.682095  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:6789
+09/21/2026-16:06:04.682665  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:8022
+09/21/2026-16:06:04.682943  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:17877
+09/21/2026-16:06:04.683281  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:4567
+09/21/2026-16:06:04.684007  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:2007
+09/21/2026-16:06:04.684253  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:11967
+09/21/2026-16:06:04.684557  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:5269
+09/21/2026-16:06:04.684870  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:2034
+09/21/2026-16:06:04.685561  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1092
+09/21/2026-16:06:04.685911  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:10025
+09/21/2026-16:06:04.686250  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1080
+09/21/2026-16:06:04.686859  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1040
+09/21/2026-16:06:04.687247  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1045
+09/21/2026-16:06:04.687601  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:5730
+09/21/2026-16:06:04.688164  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:2301
+09/21/2026-16:06:04.688500  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:5877
+09/21/2026-16:06:04.688801  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:5903
+09/21/2026-16:06:04.682149  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:62078
+09/21/2026-16:06:04.684494  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:3268
+09/21/2026-16:06:04.687423  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:3766
+09/21/2026-16:06:04.684095  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:3211
+09/21/2026-16:06:04.687017  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:19315
+09/21/2026-16:06:04.685913  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:8800
+09/21/2026-16:06:04.686019  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:4002
+09/21/2026-16:06:04.689928  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1812
+09/21/2026-16:06:04.691142  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1000
+09/21/2026-16:06:04.691039  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:5922
+09/21/2026-16:06:04.692210  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:5544
+09/21/2026-16:06:04.693112  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:5961
+09/21/2026-16:06:04.693636  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1078
+09/21/2026-16:06:04.684759  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:616
+09/21/2026-16:06:04.687195  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:2717
+09/21/2026-16:06:04.689929  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:119
+09/21/2026-16:06:04.692318  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:9929
+09/21/2026-16:06:04.686252  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:20828
+09/21/2026-16:06:04.688500  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:5877
+09/21/2026-16:06:04.691750  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:9207
+09/21/2026-16:06:04.689153  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1041
+09/21/2026-16:06:04.691512  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:10621
+09/21/2026-16:06:04.694403  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1434
+09/21/2026-16:06:04.689155  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:4321
+09/21/2026-16:06:04.689926  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:2121
+09/21/2026-16:06:04.689969  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:9111
+09/21/2026-16:06:04.690266  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:3493
+09/21/2026-16:06:04.690877  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:543
+09/21/2026-16:06:04.691197  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1984
+09/21/2026-16:06:04.691565  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:84
+09/21/2026-16:06:04.692150  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:10012
+09/21/2026-16:06:04.692478  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1352
+09/21/2026-16:06:04.692791  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:64680
+09/21/2026-16:06:04.693113  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:8087
+09/21/2026-16:06:04.693636  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1078
+09/21/2026-16:06:04.693993  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:720
+09/21/2026-16:06:04.694350  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1121
+09/21/2026-16:06:04.694956  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:70
+09/21/2026-16:06:04.695293  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1461
+09/21/2026-16:06:04.695579  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:49155
+09/21/2026-16:06:04.698201  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:9040
+09/21/2026-16:06:04.690985  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:16993
+09/21/2026-16:06:04.698441  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:2170
+09/21/2026-16:06:04.698719  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:3828
+09/21/2026-16:06:04.693635  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:3030
+09/21/2026-16:06:04.698557  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:3011
+09/21/2026-16:06:04.698283  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:9876
+09/21/2026-16:06:04.698441  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:2170
+09/21/2026-16:06:04.701804  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:9200
+09/21/2026-16:06:04.701418  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:10617
+09/21/2026-16:06:04.702024  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:888
+09/21/2026-16:06:04.695469  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:49158
+09/21/2026-16:06:04.698357  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:2366
+09/21/2026-16:06:04.702840  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:2968
+09/21/2026-16:06:04.695525  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:2196
+09/21/2026-16:06:04.698955  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:32782
+09/21/2026-16:06:04.702775  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:49999
+09/21/2026-16:06:04.701645  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1688
+09/21/2026-16:06:04.703491  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:82
+09/21/2026-16:06:04.704809  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:3000
+09/21/2026-16:06:04.700886  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:33354
+09/21/2026-16:06:04.701470  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:999
+09/21/2026-16:06:04.706613  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:7676
+09/21/2026-16:06:04.701694  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:3221
+09/21/2026-16:06:04.702021  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1154
+09/21/2026-16:06:04.702506  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:6502
+09/21/2026-16:06:04.702772  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:301
+09/21/2026-16:06:04.703013  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:548
+09/21/2026-16:06:04.703542  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1417
+09/21/2026-16:06:04.703808  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:787
+09/21/2026-16:06:04.704099  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:8084
+09/21/2026-16:06:04.704378  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:13456
+09/21/2026-16:06:04.704927  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1038
+09/21/2026-16:06:04.705183  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:8292
+09/21/2026-16:06:04.705479  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:5988
+09/21/2026-16:06:04.705929  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:2065
+09/21/2026-16:06:04.706211  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:4111
+09/21/2026-16:06:04.706434  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:6025
+09/21/2026-16:06:04.706976  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:9593
+09/21/2026-16:06:04.707328  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:1074
+09/21/2026-16:06:04.702446  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:7741
+09/21/2026-16:06:04.704325  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:705
+09/21/2026-16:06:04.706382  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:2525
+09/21/2026-16:06:04.704032  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:179
+09/21/2026-16:06:04.705929  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:2065
+09/21/2026-16:06:04.705356  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:7019
+09/21/2026-16:06:04.705416  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:2006
+09/21/2026-16:06:04.706211  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:4111
+09/21/2026-16:06:04.706151  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:64173 -> 192.168.254.129:2399
+09/21/2026-16:06:40.927079  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:3389
+09/21/2026-16:06:40.927638  [**] [1:9000001:1] NMAP Scan Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:113
+09/21/2026-16:06:40.928708  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:57797
+09/21/2026-16:06:40.925706  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:5900
+09/21/2026-16:06:40.929387  [**] [1:9000001:1] NMAP Scan Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1147
+09/21/2026-16:06:40.931595  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1024
+09/21/2026-16:06:40.926227  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1025
+09/21/2026-16:06:40.929989  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1165
+09/21/2026-16:06:40.936815  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:515
+09/21/2026-16:06:40.930238  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:3703
+09/21/2026-16:06:40.931650  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:10004
+09/21/2026-16:06:40.933708  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:5906
+09/21/2026-16:06:40.935234  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:15742
+09/21/2026-16:06:40.936675  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:2393
+09/21/2026-16:06:40.938153  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:13783
+09/21/2026-16:06:40.937998  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1718
+09/21/2026-16:06:40.938337  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1068
+09/21/2026-16:06:40.940032  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:3390
+09/21/2026-16:06:40.943464  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:9001
+09/21/2026-16:06:40.942166  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:9999
+09/21/2026-16:06:40.941694  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:7937
+09/21/2026-16:06:40.945889  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:6788
+09/21/2026-16:06:40.939687  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:3871
+09/21/2026-16:06:40.941111  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:3211
+09/21/2026-16:06:40.942618  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:40193
+09/21/2026-16:06:40.944103  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:3971
+09/21/2026-16:06:40.945541  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:4998
+09/21/2026-16:06:40.946409  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:4567
+09/21/2026-16:06:40.944167  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:8254
+09/21/2026-16:06:40.951334  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:44443
+09/21/2026-16:06:40.950801  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1123
+09/21/2026-16:06:40.951257  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1049
+09/21/2026-16:06:40.950334  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:2008
+09/21/2026-16:06:40.955995  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:6669
+09/21/2026-16:06:40.949651  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:8031
+09/21/2026-16:06:40.950539  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:8292
+09/21/2026-16:06:40.951334  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1145
+09/21/2026-16:06:40.954568  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:513
+09/21/2026-16:06:40.955517  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:5811
+09/21/2026-16:06:40.956347  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:51493
+09/21/2026-16:06:40.957283  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:9900
+09/21/2026-16:06:40.959192  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1322
+09/21/2026-16:06:40.957062  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1033
+09/21/2026-16:06:40.960436  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:6009
+09/21/2026-16:06:40.955063  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:543
+09/21/2026-16:06:40.959674  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1998
+09/21/2026-16:06:40.963871  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:99
+09/21/2026-16:06:40.962635  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:5998
+09/21/2026-16:06:40.961497  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:6106
+09/21/2026-16:06:40.959526  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:563
+09/21/2026-16:06:40.967385  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1048
+09/21/2026-16:06:40.960496  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:49
+09/21/2026-16:06:40.961324  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:3269
+09/21/2026-16:06:40.962312  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:3030
+09/21/2026-16:06:40.963144  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:10616
+09/21/2026-16:06:40.964047  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:5960
+09/21/2026-16:06:40.964854  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1021
+09/21/2026-16:06:40.965758  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:2968
+09/21/2026-16:06:40.966578  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:787
+09/21/2026-16:06:40.967592  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:58080
+09/21/2026-16:06:40.968622  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:2065
+09/21/2026-16:06:40.965218  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:6112
+09/21/2026-16:06:40.970257  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:2718
+09/21/2026-16:06:40.965445  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:3404
+09/21/2026-16:06:40.973604  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:10012
+09/21/2026-16:06:40.969750  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1455
+09/21/2026-16:06:40.967027  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1218
+09/21/2026-16:06:40.970297  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1054
+09/21/2026-16:06:40.966826  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:20
+09/21/2026-16:06:40.973426  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1029
+09/21/2026-16:06:40.973748  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:11110
+09/21/2026-16:06:40.969550  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:3689
+09/21/2026-16:06:40.970416  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:3052
+09/21/2026-16:06:40.971521  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:2638
+09/21/2026-16:06:40.972608  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1801
+09/21/2026-16:06:40.973426  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1029
+09/21/2026-16:06:40.974234  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:5120
+09/21/2026-16:06:40.975283  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:3918
+09/21/2026-16:06:40.976004  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:9080
+09/21/2026-16:06:40.976965  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1328
+09/21/2026-16:06:40.977776  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:617
+09/21/2026-16:06:40.978717  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:2800
+09/21/2026-16:06:40.971678  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:5910
+09/21/2026-16:06:40.977775  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:2009
+09/21/2026-16:06:40.977135  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1094
+09/21/2026-16:06:40.976709  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:20828
+09/21/2026-16:06:40.981094  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1022
+09/21/2026-16:06:40.979259  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:4899
+09/21/2026-16:06:40.981700  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1755
+09/21/2026-16:06:40.982481  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:13
+09/21/2026-16:06:40.977947  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1187
+09/21/2026-16:06:40.982643  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:9917
+09/21/2026-16:06:40.983929  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1069
+09/21/2026-16:06:40.979612  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:8333
+09/21/2026-16:06:40.980618  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:5102
+09/21/2026-16:06:40.981456  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:5915
+09/21/2026-16:06:40.982493  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:4449
+09/21/2026-16:06:40.983182  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:9943
+09/21/2026-16:06:40.984137  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:49157
+09/21/2026-16:06:40.985056  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:19780
+09/21/2026-16:06:40.986080  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:20000
+09/21/2026-16:06:40.986927  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:5000
+09/21/2026-16:06:40.987902  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:8800
+09/21/2026-16:06:40.988684  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:2383
+09/21/2026-16:06:40.981178  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:9998
+09/21/2026-16:06:40.985391  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:32768
+09/21/2026-16:06:40.986152  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:700
+09/21/2026-16:06:40.987336  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1688
+09/21/2026-16:06:40.991675  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:50003
+09/21/2026-16:06:40.993875  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:444
+09/21/2026-16:06:40.989040  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:7070
+09/21/2026-16:06:40.985057  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:19780
+09/21/2026-16:06:40.988246  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1100
+09/21/2026-16:06:40.991844  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:4550
+09/21/2026-16:06:40.992442  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1287
+09/21/2026-16:06:40.996546  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:6006
+09/21/2026-16:06:40.989797  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:646
+09/21/2026-16:06:40.990643  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:7435
+09/21/2026-16:06:40.991677  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:61532
+09/21/2026-16:06:40.992442  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1287
+09/21/2026-16:06:40.993370  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:3814
+09/21/2026-16:06:40.994440  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:3998
+09/21/2026-16:06:40.995614  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:407
+09/21/2026-16:06:40.996878  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:714
+09/21/2026-16:06:40.998015  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:340
+09/21/2026-16:06:40.997132  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:20221
+09/21/2026-16:06:40.994441  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:3998
+09/21/2026-16:06:41.001272  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:6646
+09/21/2026-16:06:40.999129  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:18988
+09/21/2026-16:06:41.001074  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:4004
+09/21/2026-16:06:41.000576  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:16012
+09/21/2026-16:06:40.998974  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:1
+09/21/2026-16:06:41.000058  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:5903
+09/21/2026-16:06:41.001074  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:56681 -> 192.168.254.129:44442
+09/21/2026-16:06:47.142315  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:45840 -> 192.168.254.129:80
+09/21/2026-16:06:47.143522  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:45842 -> 192.168.254.129:80
+09/21/2026-16:06:47.142314  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:45840 -> 192.168.254.129:80
+09/21/2026-16:06:47.143521  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:45842 -> 192.168.254.129:80
+09/21/2026-16:06:47.148381  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:45866 -> 192.168.254.129:80
+09/21/2026-16:06:47.148854  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:45876 -> 192.168.254.129:80
+09/21/2026-16:06:47.142316  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:45840 -> 192.168.254.129:80
+09/21/2026-16:06:47.148381  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:45866 -> 192.168.254.129:80
+09/21/2026-16:06:47.143522  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:45842 -> 192.168.254.129:80
+09/21/2026-16:06:47.148381  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:45866 -> 192.168.254.129:80
+09/21/2026-16:06:47.148854  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:45876 -> 192.168.254.129:80
+09/21/2026-16:06:47.148854  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:45876 -> 192.168.254.129:80
+09/21/2026-16:06:59.126221  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:143
+09/21/2026-16:06:59.126368  [**] [1:9000001:1] NMAP Scan Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:8888
+09/21/2026-16:06:59.126740  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:90
+09/21/2026-16:06:59.127370  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1174
+09/21/2026-16:06:59.127836  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:340
+09/21/2026-16:06:59.128616  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:563
+09/21/2026-16:06:59.126530  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:135
+09/21/2026-16:06:59.127766  [**] [1:9000001:1] NMAP Scan Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:33354
+09/21/2026-16:06:59.129381  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:700
+09/21/2026-16:06:59.127918  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1067
+09/21/2026-16:06:59.128126  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:2323
+09/21/2026-16:06:59.131087  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:2007
+09/21/2026-16:06:59.132729  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:14442
+09/21/2026-16:06:59.133517  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1216
+09/21/2026-16:06:59.132193  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:8031
+09/21/2026-16:06:59.133697  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:6901
+09/21/2026-16:06:59.132351  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1524
+09/21/2026-16:06:59.134070  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1063
+09/21/2026-16:06:59.128795  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:3851
+09/21/2026-16:06:59.130922  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:548
+09/21/2026-16:06:59.133594  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:3827
+09/21/2026-16:06:59.130539  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:11967
+09/21/2026-16:06:59.129019  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:2111
+09/21/2026-16:06:59.133694  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:6580
+09/21/2026-16:06:59.129450  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:60020
+09/21/2026-16:06:59.136752  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:54045
+09/21/2026-16:06:59.129866  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1054
+09/21/2026-16:06:59.130537  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:5298
+09/21/2026-16:06:59.130923  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:6567
+09/21/2026-16:06:59.131605  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:5440
+09/21/2026-16:06:59.131857  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:6003
+09/21/2026-16:06:59.132193  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:8031
+09/21/2026-16:06:59.132587  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:4004
+09/21/2026-16:06:59.133224  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1233
+09/21/2026-16:06:59.133515  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:9898
+09/21/2026-16:06:59.133872  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:5101
+09/21/2026-16:06:59.134222  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:2222
+09/21/2026-16:06:59.134782  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1914
+09/21/2026-16:06:59.135055  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:32783
+09/21/2026-16:06:59.135409  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1071
+09/21/2026-16:06:59.136612  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:15003
+09/21/2026-16:06:59.137048  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:4848
+09/21/2026-16:06:59.137395  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:12345
+09/21/2026-16:06:59.138416  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:6547
+09/21/2026-16:06:59.138454  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:8443
+09/21/2026-16:06:59.138807  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:6100
+09/21/2026-16:06:59.131139  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:32779
+09/21/2026-16:06:59.132246  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:2107
+09/21/2026-16:06:59.134867  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:27000
+09/21/2026-16:06:59.137530  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1192
+09/21/2026-16:06:59.139177  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:6009
+09/21/2026-16:06:59.134509  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:555
+09/21/2026-16:06:59.138418  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:3517
+09/21/2026-16:06:59.138477  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:9000
+09/21/2026-16:06:59.139996  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:5911
+09/21/2026-16:06:59.141183  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:10004
+09/21/2026-16:06:59.142746  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1863
+09/21/2026-16:06:59.142905  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:8100
+09/21/2026-16:06:59.134991  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1000
+09/21/2026-16:06:59.137291  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:6156
+09/21/2026-16:06:59.140163  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1755
+09/21/2026-16:06:59.143513  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:6510
+09/21/2026-16:06:59.137972  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:9968
+09/21/2026-16:06:59.140332  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:2020
+09/21/2026-16:06:59.142851  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:417
+09/21/2026-16:06:59.140268  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:3369
+09/21/2026-16:06:59.142568  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:32
+09/21/2026-16:06:59.139177  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:6009
+09/21/2026-16:06:59.148287  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:9091
+09/21/2026-16:06:59.139773  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1081
+09/21/2026-16:06:59.140110  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:4449
+09/21/2026-16:06:59.140489  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:3371
+09/21/2026-16:06:59.141076  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:49156
+09/21/2026-16:06:59.141357  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:3690
+09/21/2026-16:06:59.141962  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:17988
+09/21/2026-16:06:59.142236  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1218
+09/21/2026-16:06:59.142565  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:49163
+09/21/2026-16:06:59.142851  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:417
+09/21/2026-16:06:59.143189  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:2103
+09/21/2026-16:06:59.143807  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:4001
+09/21/2026-16:06:59.144123  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:7201
+09/21/2026-16:06:59.144457  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:50006
+09/21/2026-16:06:59.145008  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:5405
+09/21/2026-16:06:59.145337  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1044
+09/21/2026-16:06:59.145676  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1069
+09/21/2026-16:06:59.148341  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:8099
+09/21/2026-16:06:59.148582  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:6002
+09/21/2026-16:06:59.142182  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:32774
+09/21/2026-16:06:59.144230  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:8090
+09/21/2026-16:06:59.148287  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:8200
+09/21/2026-16:06:59.144286  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:2040
+09/21/2026-16:06:59.148812  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:2042
+09/21/2026-16:06:59.145219  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:3814
+09/21/2026-16:06:59.152492  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:5432
+09/21/2026-16:06:59.152075  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:3003
+09/21/2026-16:06:59.144511  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:667
+09/21/2026-16:06:59.145799  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:4111
+09/21/2026-16:06:59.152492  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:13783
+09/21/2026-16:06:59.158778  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:8873
+09/21/2026-16:06:59.149041  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:3880
+09/21/2026-16:06:59.149280  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:19283
+09/21/2026-16:06:59.151863  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:8400
+09/21/2026-16:06:59.152190  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:9535
+09/21/2026-16:06:59.152428  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:9090
+09/21/2026-16:06:59.155062  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1095
+09/21/2026-16:06:59.155373  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:9500
+09/21/2026-16:06:59.155655  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:9503
+09/21/2026-16:06:59.158247  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:33899
+09/21/2026-16:06:59.158496  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:8193
+09/21/2026-16:06:59.158778  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:8873
+09/21/2026-16:06:59.155063  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:2251
+09/21/2026-16:06:59.158672  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:3580
+09/21/2026-16:06:59.158614  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:8899
+09/21/2026-16:06:59.158496  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:2809
+09/21/2026-16:06:59.162788  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:2288
+09/21/2026-16:06:59.162681  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:987
+09/21/2026-16:06:59.155481  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:10617
+09/21/2026-16:06:59.161874  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:3918
+09/21/2026-16:06:59.155012  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:15000
+09/21/2026-16:06:59.158862  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:49152
+09/21/2026-16:06:59.163297  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:64623
+09/21/2026-16:06:59.161873  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:10024
+09/21/2026-16:06:59.159027  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:12174
+09/21/2026-16:06:59.163748  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1108
+09/21/2026-16:06:59.161654  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1198
+09/21/2026-16:06:59.161876  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:2001
+09/21/2026-16:06:59.162200  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:7106
+09/21/2026-16:06:59.162679  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:10616
+09/21/2026-16:06:59.162959  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:5666
+09/21/2026-16:06:59.163190  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:50002
+09/21/2026-16:06:59.163805  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:3689
+09/21/2026-16:06:59.164073  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:1119
+09/21/2026-16:06:59.162088  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:84
+09/21/2026-16:06:59.163936  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:55827 -> 192.168.254.129:51103
+09/21/2026-16:07:05.911281  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:05.911281  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:05.911279  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:05.911279  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:05.911347  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.129:0 -> 192.168.254.128:9
+09/21/2026-16:07:05.911346  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.129:0 -> 192.168.254.128:9
+09/21/2026-16:07:05.911281  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:05.911347  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.129:0 -> 192.168.254.128:9
+09/21/2026-16:07:05.936561  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:07:05.936550  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:07:08.022152  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:08.022151  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:08.022152  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:08.022151  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:08.022217  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.129:0 -> 192.168.254.128:9
+09/21/2026-16:07:08.022216  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.129:0 -> 192.168.254.128:9
+09/21/2026-16:07:08.022152  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:08.022217  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.129:0 -> 192.168.254.128:9
+09/21/2026-16:07:08.046878  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:07:08.046877  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:07:10.131667  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:10.131667  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:10.131666  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:10.131861  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.129:0 -> 192.168.254.128:9
+09/21/2026-16:07:10.131666  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:10.131860  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.129:0 -> 192.168.254.128:9
+09/21/2026-16:07:10.131668  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:10.131862  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.129:0 -> 192.168.254.128:9
+09/21/2026-16:07:10.156825  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:07:10.156822  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:07:13.742924  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:13.742926  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:13.742926  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:13.742924  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:13.742992  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.129:0 -> 192.168.254.128:9
+09/21/2026-16:07:13.742991  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.129:0 -> 192.168.254.128:9
+09/21/2026-16:07:13.742926  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:13.742992  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.129:0 -> 192.168.254.128:9
+09/21/2026-16:07:13.767715  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:07:13.767712  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:07:15.852961  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:15.852959  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:15.852961  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:15.852959  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:15.853119  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.129:0 -> 192.168.254.128:9
+09/21/2026-16:07:15.853120  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.129:0 -> 192.168.254.128:9
+09/21/2026-16:07:15.852962  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:9
+09/21/2026-16:07:15.853121  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.254.129:0 -> 192.168.254.128:9
+09/21/2026-16:07:15.878036  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:07:15.878035  [**] [1:9000003:1] ICMP Ping Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {ICMP} 192.168.254.128:8 -> 192.168.254.129:0
+09/21/2026-16:07:16.479001  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:42124 -> 192.168.254.129:80
+09/21/2026-16:07:16.480780  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:42156 -> 192.168.254.129:80
+09/21/2026-16:07:16.486230  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42108 -> 192.168.254.129:80
+09/21/2026-16:07:16.486229  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42108 -> 192.168.254.129:80
+09/21/2026-16:07:16.487643  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42128 -> 192.168.254.129:80
+09/21/2026-16:07:16.487641  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42128 -> 192.168.254.129:80
+09/21/2026-16:07:16.487782  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42156 -> 192.168.254.129:80
+09/21/2026-16:07:16.487707  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42140 -> 192.168.254.129:80
+09/21/2026-16:07:16.487727  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42144 -> 192.168.254.129:80
+09/21/2026-16:07:16.490366  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42168 -> 192.168.254.129:80
+09/21/2026-16:07:16.487728  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42126 -> 192.168.254.129:80
+09/21/2026-16:07:16.487782  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42156 -> 192.168.254.129:80
+09/21/2026-16:07:16.486230  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42108 -> 192.168.254.129:80
+09/21/2026-16:07:16.487708  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42140 -> 192.168.254.129:80
+09/21/2026-16:07:16.490867  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42180 -> 192.168.254.129:80
+09/21/2026-16:07:16.487643  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42128 -> 192.168.254.129:80
+09/21/2026-16:07:16.487708  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42140 -> 192.168.254.129:80
+09/21/2026-16:07:16.489283  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42188 -> 192.168.254.129:80
+09/21/2026-16:07:16.487727  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42144 -> 192.168.254.129:80
+09/21/2026-16:07:16.489977  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42112 -> 192.168.254.129:80
+09/21/2026-16:07:16.487728  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42126 -> 192.168.254.129:80
+09/21/2026-16:07:16.487782  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42156 -> 192.168.254.129:80
+09/21/2026-16:07:16.489283  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42188 -> 192.168.254.129:80
+09/21/2026-16:07:16.489977  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42112 -> 192.168.254.129:80
+09/21/2026-16:07:16.490366  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42168 -> 192.168.254.129:80
+09/21/2026-16:07:16.490367  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42174 -> 192.168.254.129:80
+09/21/2026-16:07:16.487727  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42144 -> 192.168.254.129:80
+09/21/2026-16:07:16.487728  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42126 -> 192.168.254.129:80
+09/21/2026-16:07:16.490367  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42174 -> 192.168.254.129:80
+09/21/2026-16:07:16.489283  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42188 -> 192.168.254.129:80
+09/21/2026-16:07:16.489976  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42112 -> 192.168.254.129:80
+09/21/2026-16:07:16.490365  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42168 -> 192.168.254.129:80
+09/21/2026-16:07:16.490366  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42174 -> 192.168.254.129:80
+09/21/2026-16:07:16.490867  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42180 -> 192.168.254.129:80
+09/21/2026-16:07:16.490867  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42180 -> 192.168.254.129:80
+09/21/2026-16:07:16.508372  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42198 -> 192.168.254.129:80
+09/21/2026-16:07:16.508668  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42208 -> 192.168.254.129:80
+09/21/2026-16:07:16.508719  [**] [1:9000001:1] NMAP Scan Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:41110 -> 192.168.254.129:22
+09/21/2026-16:07:16.508669  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42208 -> 192.168.254.129:80
+09/21/2026-16:07:16.509744  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42216 -> 192.168.254.129:80
+09/21/2026-16:07:16.508372  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42198 -> 192.168.254.129:80
+09/21/2026-16:07:16.508669  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42208 -> 192.168.254.129:80
+09/21/2026-16:07:16.509431  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.254.128:42222 -> 192.168.254.129:80
+09/21/2026-16:07:16.509431  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42222 -> 192.168.254.129:80
+09/21/2026-16:07:16.509744  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42216 -> 192.168.254.129:80
+09/21/2026-16:07:16.509857  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42236 -> 192.168.254.129:80
+09/21/2026-16:07:16.508372  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42198 -> 192.168.254.129:80
+09/21/2026-16:07:16.509857  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42236 -> 192.168.254.129:80
+09/21/2026-16:07:16.508720  [**] [1:9000001:1] NMAP Scan Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:41110 -> 192.168.254.129:22
+09/21/2026-16:07:16.509431  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.254.128:42222 -> 192.168.254.129:80
+09/21/2026-16:07:16.509431  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42222 -> 192.168.254.129:80
+09/21/2026-16:07:16.509430  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.254.128:42222 -> 192.168.254.129:80
+09/21/2026-16:07:16.509430  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42222 -> 192.168.254.129:80
+09/21/2026-16:07:16.509744  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42216 -> 192.168.254.129:80
+09/21/2026-16:07:16.509857  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42236 -> 192.168.254.129:80
+09/21/2026-16:07:16.522007  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42248 -> 192.168.254.129:80
+09/21/2026-16:07:16.522006  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42248 -> 192.168.254.129:80
+09/21/2026-16:07:16.525868  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:42258 -> 192.168.254.129:80
+09/21/2026-16:07:16.526442  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42254 -> 192.168.254.129:80
+09/21/2026-16:07:16.522007  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42248 -> 192.168.254.129:80
+09/21/2026-16:07:16.526442  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42254 -> 192.168.254.129:80
+09/21/2026-16:07:16.530263  [**] [1:9000002:1] SCAN Multiple Port Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 192.168.254.128:41124 -> 192.168.254.129:22
+09/21/2026-16:07:16.526442  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42254 -> 192.168.254.129:80
+09/21/2026-16:07:16.532432  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42258 -> 192.168.254.129:80
+09/21/2026-16:07:16.532432  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42258 -> 192.168.254.129:80
+09/21/2026-16:07:16.532433  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42258 -> 192.168.254.129:80
+09/21/2026-16:07:16.543465  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42268 -> 192.168.254.129:80
+09/21/2026-16:07:16.543876  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42278 -> 192.168.254.129:80
+09/21/2026-16:07:16.543465  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42268 -> 192.168.254.129:80
+09/21/2026-16:07:16.543875  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42278 -> 192.168.254.129:80
+09/21/2026-16:07:16.543465  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42268 -> 192.168.254.129:80
+09/21/2026-16:07:16.543877  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42278 -> 192.168.254.129:80
+09/21/2026-16:07:16.554141  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42288 -> 192.168.254.129:80
+09/21/2026-16:07:16.554140  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42288 -> 192.168.254.129:80
+09/21/2026-16:07:16.554141  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42288 -> 192.168.254.129:80
+09/21/2026-16:07:16.567582  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42302 -> 192.168.254.129:80
+09/21/2026-16:07:16.567583  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42302 -> 192.168.254.129:80
+09/21/2026-16:07:16.567583  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42302 -> 192.168.254.129:80
+09/21/2026-16:07:16.583214  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42314 -> 192.168.254.129:80
+09/21/2026-16:07:16.583214  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42314 -> 192.168.254.129:80
+09/21/2026-16:07:16.583214  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42314 -> 192.168.254.129:80
+09/21/2026-16:07:16.591476  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42318 -> 192.168.254.129:80
+09/21/2026-16:07:16.591475  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42318 -> 192.168.254.129:80
+09/21/2026-16:07:16.591476  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.254.128:42318 -> 192.168.254.129:80
