@@ -14,29 +14,34 @@ dan menganalisis perbedaan traffic pattern tiap teknik.
 ```bash
 ping -c 5 192.168.254.129
 ```
+![Suricata Alert](screenshots/PING.png)
 
 ### 2. Basic TCP Connect Scan
 ```bash
 nmap 192.168.254.129
 ```
+![Nmap](screenshots/Nmap.png)
 
 ### 3. Stealth SYN Scan
 ```bash
 sudo nmap -sS 192.168.254.129
 ```
+![Stealth](screenshots/NMAP-sS.png)
 
 ### 4. Service Version Detection
 ```bash
 sudo nmap -sV 192.168.254.129
 ```
+![Service](screenshots/NMAP-sV.png)
 
 ### 5. Aggressive Scan
 ```bash
 sudo nmap -A 192.168.254.129
 ```
+![Aggresive Scan](screenshots/NMAP-A.png)
 
 ## Alert Suricata
-![Suricata Alert](screenshots/PING.png)
+![Suricata Alert](screenshots/Suricata_alert.png)
 
 ## Summary Alert
 ```bash 
