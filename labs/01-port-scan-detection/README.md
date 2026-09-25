@@ -36,7 +36,7 @@ sudo nmap -A 192.168.254.129
 ```
 
 ## Alert Suricata
-![Suricata Alert](sreenshots/PING.png)
+![Suricata Alert](screenshots/PING.png)
 
 ## Summary Alert
 ```bash 
